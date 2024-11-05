@@ -1,13 +1,13 @@
 # <p align="center">Java Boilerplate Code</p>
 ---
 
-## How to create Java project base on Java Boilerplate Code
+## How to create Java project base on Boilerplate Code
 
 ### Clone Java Boilerplate Code to `C:\Users\<UserName>\jdtls-workspace`
 ```
 git clone https://github.com/dghuuloc/JavaBoilerplateCode.git <ProjectName>
 ```
-Change <ProjectName> with your expected Name. For Example:
+For Example:
 
 ```
 git clone https://github.com/dghuuloc/JavaBoilerplateCode.git JavaCore
@@ -22,7 +22,7 @@ rm -rf .git
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ProjectName</name>
+	<name>ProjectName</name>            <!--Change ProjectName with your expected name-->
 	<comment></comment>
 	<projects>
 	</projects>
